@@ -1,6 +1,6 @@
 streamlit
-numpy
-pandas
-joblib==1.3.2
+joblib
 scikit-learn
+pandas
+numpy
 matplotlib
