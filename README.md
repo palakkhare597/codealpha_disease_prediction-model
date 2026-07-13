@@ -124,9 +124,7 @@ Heart-Disease-Prediction/
 ├── scaler.pkl
 ├── requirements.txt
 ├── README.md
-└── images/
-    ├── confusion_matrix.png
-    └── feature_importance.png
+
 ```
 
 ---
@@ -179,9 +177,9 @@ Example comparison:
 
 | Model | Accuracy |
 |--------|----------|
-| Decision Tree | 84.7% |
-| Random Forest | 91.5% |
-| XGBoost | 93.8% |
+| Decision Tree | 80% |
+| Random Forest | 85.5% |
+| XGBoost | 85.8% |
 
 *(Results may vary depending on dataset version and train-test split.)*
 
